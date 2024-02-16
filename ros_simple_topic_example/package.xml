@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_simple_topic_example</name>
+  <version>0.0.0</version>
+  <description>The ros_simple_topic_example package</description> 
+  <maintainer email="jay@todo.todo">jay</maintainer>
+  <license>TODO</license>
+  <author email="jay@adol.todo">jay</author>
+  <buildtool_depend>catkin</buildtool_depend>  
+  <depend>roscpp</depend>    
+  <depend>std_msgs</depend>
+  <export></export>
+</package>

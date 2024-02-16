@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_tutorial_subscriber</name>
+  <version>0.0.0</version>
+  <description>The ros_tutorial_subscriber package</description>
+
+  <maintainer email="jay@todo.todo">jay</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>ros_tutorial_msgs</depend>
+</package>
